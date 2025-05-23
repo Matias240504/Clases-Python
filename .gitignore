@@ -1,1 +1,22 @@
+# Entorno virtual
 mi_entorno/
+.mi_entorno/
+
+# Archivos del sistema
+__pycache__/
+*.py[cod]
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Archivos de logs y configuraciones temporales
+*.log
+
+# Credenciales o configuraciones sensibles (si decides usarlos)
+*.env
+
+# Configuración de VSCode (opcional, si no quieres compartirla)
+.vscode/
+
+# Archivos de bases de datos (si llegas a exportar datos locales)
+*.db
