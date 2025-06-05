@@ -2,6 +2,12 @@
 mi_entorno/
 .mi_entorno/
 
+venv/
+.venv/
+
+env/
+.env/
+
 # Archivos del sistema
 __pycache__/
 *.py[cod]
