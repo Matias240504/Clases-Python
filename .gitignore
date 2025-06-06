@@ -26,3 +26,15 @@ Thumbs.db
 
 # Archivos de bases de datos (si llegas a exportar datos locales)
 *.db
+
+# Ignorar imágenes JPG
+*.jpg
+
+# Otros comunes
+*.png
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+*.jpeg
+*webp
